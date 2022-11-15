@@ -9,16 +9,16 @@ _letters = 'AEINOQUabdefghijkmnoprstuvwyzʃʧ↓↑ '
 '''
 
 # japanese_cleaners2
-_pad        = '_'
-_punctuation = ',.!?-~…'
-_letters = 'AEINOQUabdefghijkmnoprstuvwyzʃʧʦ↓↑ '
+# _pad        = '_'
+# _punctuation = ',.!?-~…'
+# _letters = 'AEINOQUabdefghijkmnoprstuvwyzʃʧʦ↓↑ '
 
 
-'''# korean_cleaners
+# korean_cleaners
 _pad        = '_'
 _punctuation = ',.!?…~'
 _letters = 'ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎㄲㄸㅃㅆㅉㅏㅓㅗㅜㅡㅣㅐㅔ '
-'''
+
 
 '''# chinese_cleaners
 _pad        = '_'
